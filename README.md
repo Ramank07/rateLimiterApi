@@ -54,12 +54,6 @@ npm start
 
 The service starts on `http://localhost:3000`.
 
-### Run tests
-
-```bash
-npm test
-```
-
 ## Example Requests
 
 ### Submit a request
