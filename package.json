@@ -1,0 +1,22 @@
+{
+  "name": "rate-limited-api-service",
+  "version": "1.0.0",
+  "description": "A Node.js API with per-user rate limiting and in-memory stats.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node test/run-tests.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
